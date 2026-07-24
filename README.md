@@ -125,5 +125,27 @@ AI / Machine Learning <br> <img src="https://skillicons.dev/icons?i=python,tenso
 Tools & Design <br> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 
 </div>
-<br> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0F172A&height=3&width=100%25" width="100%"/>
+<br>
+
+---
+
+# 🌐 Connect With Me
+
+ 🔗 Portfolio:
+ 
+   - [ahmed-ashraf-protoflio.vercel.app](https://ahmed-ashraf-protoflio.vercel.app)
+  
+ 💼 LinkedIn:
+ 
+   - [linkedin.com/in/ahmed-ashraf](https://linkedin.com/in/ahmed-ashraf-5a2358310)
+  
+ 📧 Email:
+ 
+   - ghgdy705@gmail.com
+
+---
+
+
+<p align="center"><i>Consistency beats motivation — one commit at a time. 🚀</i></p>
+
 
