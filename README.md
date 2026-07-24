@@ -128,6 +128,14 @@ Tools & Design <br> <img src="https://skillicons.dev/icons?i=git,github,vscode,f
 <br>
 
 ---
+# 📊 GitHub Analytics
+<p align="center">
+<img width="72%"
+src="https://github-readme-streak-stats.herokuapp.com?user=Ahmred0000&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
 
 # 🌐 Connect With Me
 
@@ -144,8 +152,23 @@ Tools & Design <br> <img src="https://skillicons.dev/icons?i=git,github,vscode,f
    - ghgdy705@gmail.com
 
 ---
+<div align="center">
 
+## 🌟 Thanks for Visiting!
 
-<p align="center"><i>Consistency beats motivation — one commit at a time. 🚀</i></p>
+<img src="./assets/footer.svg" width="100%">
 
+### ⭐ If you like my work, don't forget to star my repositories!
+
+### 🚀 Building Scalable Web Applications
+
+### 🤖 Artificial Intelligence
+
+### 🎨 Modern UI / UX
+
+<br>
+
+Made with ❤️ by **Ahmed Ashraf**
+
+</div>
 
