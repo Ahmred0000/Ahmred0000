@@ -1,39 +1,3 @@
-<div align="center">
-  <!-- البانر المتحرك الاحترافي بألوان الموقع الخاصة بك (Teal & Dark) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=250&section=header&text=Ahmed%20Ashraf&fontSize=75&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer&descAlignY=58&descSize=22" width="100%" />
-
-  <br><br>
-
-  <!-- النص البرمجي اللي بيكتب ويمسح لوحده (الجملة الخاطفة والمسمى الوظيفي) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;UI%2FUX+Designer;Relentless+Drive.+Endless+Evolution." alt="Typing SVG" />
-  </a>
-  
-  <br><br>
-
-  <!-- أدوات وتقنيات الـ Full Stack الخاصة بك بستايل زجاجي -->
-  <h3 align="center" style="color: #cbd5e1; font-family: sans-serif;">⚙️ Core Technologies</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js&theme=dark&perline=6" alt="Tech Stack Icons" />
-    </a>
-  </p>
-
-  <br><br>
-  
-  <!-- أزرار التواصل الاحترافية -->
-  <p align="center">
-    <a href="mailto:ghgdy705@gmail.com">
-      <img src="https://img.shields.io/badge/Email-0a0f1c?style=for-the-badge&logo=gmail&logoColor=14b8a6" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/ahmed-ashraf-5a2358310">
-      <img src="https://img.shields.io/badge/LinkedIn-0a0f1c?style=for-the-badge&logo=linkedin&logoColor=14b8a6" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/AhmedAshraf">
-      <img src="https://img.shields.io/badge/Portfolio-0a0f1c?style=for-the-badge&logo=globe&logoColor=14b8a6" alt="Portfolio" />
-    </a>
-  </p>
-</div>
 <h1 align="center">Hi there, I'm Ahmed Ashraf 👋</h1>
 <h3 align="center">Full Stack Developer | Laravel & Vue.js | UI/UX Design</h3>
 
