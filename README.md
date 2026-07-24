@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Ahmed Ashraf Banner"/>
+<img src="./images/banner.png" width="100%" alt="Ahmed Ashraf Banner"/>
 
 # 👋 Hi, I'm Ahmed Ashraf
 
-### 🚀 Full Stack Laravel Developer | AI Engineer | UI/UX Designer
+### 🚀 Full Stack Laravel Developer | AI Enthusiast  | UI/UX Designer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;Developing+AI-Powered+Solutions;Crafting+Modern+UI%2FUX+Experiences;Always+Learning+New+Technologies" />
 
