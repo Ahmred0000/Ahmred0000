@@ -45,11 +45,13 @@ Building scalable, high-performance web applications with modern UI and clean ar
 - 🧱 Follow **MVC, SOLID principles & Clean Code** in every project
 - 🧠 Currently pursuing a **B.Sc. in Computer Science** (Zagazig University, Expected 2026)
 - 🚀 Always exploring new tools to build faster, cleaner, better
-
+  
 ### 🌐 Connect With Me
 
 - 🔗 Portfolio: [ahmed-ashraf-protoflio.vercel.app](https://ahmed-ashraf-protoflio.vercel.app)
+  
 - 💼 LinkedIn: [linkedin.com/in/ahmed-ashraf](https://linkedin.com/in/ahmed-ashraf-5a2358310)
+  
 - 📧 Email: ghgdy705@gmail.com
 
 ---
