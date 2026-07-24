@@ -2,37 +2,8 @@
   <!-- البانر المخصص اللي عملناه (Premium SVG) -->
   <img src="banner.svg" alt="Ahmed Ashraf Professional Banner" width="100%" />
 
-  <br><br>
-
-  <!-- مقدمة سريعة وجذابة -->
-  <p align="center" style="font-size: 1.1rem; color: #cbd5e1;">
-    Translating visionary ideas into flawless, high-performing web applications. <br>
-    Bridging the gap between <b>beautiful design</b> and <b>robust backend architecture</b>.
-  </p>
-  
+    
   <br>
-
-  <!-- أدوات وتقنيات الـ Full Stack (بتنسيق زجاجي احترافي يتناسب مع البانر) -->
-  <h3 align="center" style="color: #14b8a6; font-family: sans-serif;">⚙️ Core Technologies</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js&theme=dark&perline=6" alt="Tech Stack Icons" />
-    </a>
-  </p>
-
-  <br><br>
-  
-  <!-- أزرار التواصل بشكل Minimalist -->
-  <p align="center">
-    <a href="mailto:ghgdy705@gmail.com">
-      <img src="https://img.shields.io/badge/Email-0a0f1c?style=for-the-badge&logo=gmail&logoColor=14b8a6" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/ahmed-ashraf-5a2358310">
-      <img src="https://img.shields.io/badge/LinkedIn-0a0f1c?style=for-the-badge&logo=linkedin&logoColor=14b8a6" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/AhmedAshraf">
-      <img src="https://img.shields.io/badge/Portfolio-0a0f1c?style=for-the-badge&logo=globe&logoColor=14b8a6" alt="Portfolio" />
-    </a>
   </p>
 </div>
 <h1 align="center">Hi there, I'm Ahmed Ashraf 👋</h1>
