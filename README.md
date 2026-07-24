@@ -1,13 +1,25 @@
 <div align="center">
-  <!-- البانر المتحرك -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=250&section=header&text=Ahmed%20Ashraf&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+  <!-- البانر المتحرك الاحترافي بألوان الموقع الخاصة بك (Teal & Dark) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=250&section=header&text=Ahmed%20Ashraf&fontSize=75&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer&descAlignY=58&descSize=22" width="100%" />
 
-  <!-- النص البرمجي اللي بيكتب ويمسح لوحده -->
+  <br><br>
+
+  <!-- النص البرمجي اللي بيكتب ويمسح لوحده (الجملة الخاطفة والمسمى الوظيفي) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;Relentless+Drive.+Endless+Evolution." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;UI%2FUX+Designer;Relentless+Drive.+Endless+Evolution." alt="Typing SVG" />
   </a>
   
-  <br>
+  <br><br>
+
+  <!-- أدوات وتقنيات الـ Full Stack الخاصة بك بستايل زجاجي -->
+  <h3 align="center" style="color: #cbd5e1; font-family: sans-serif;">⚙️ Core Technologies</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js&theme=dark&perline=6" alt="Tech Stack Icons" />
+    </a>
+  </p>
+
+  <br><br>
   
   <!-- أزرار التواصل الاحترافية -->
   <p align="center">
