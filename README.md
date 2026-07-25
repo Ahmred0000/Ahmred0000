@@ -156,8 +156,6 @@ src="https://github-readme-streak-stats.herokuapp.com?user=Ahmred0000&theme=toky
 
 ## 🌟 Thanks for Visiting!
 
-<img src="./assets/footer.svg" width="100%">
-
 ### ⭐ If you like my work, don't forget to star my repositories!
 
 ### 🚀 Building Scalable Web Applications
